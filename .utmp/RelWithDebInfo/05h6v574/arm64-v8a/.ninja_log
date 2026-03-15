@@ -1,0 +1,10 @@
+# ninja log v5
+19	859	7953004768037484	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	47d5c4df42bcb90f
+10	870	7953004768152769	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8f6c6f6c91e7bc82
+25	872	7953004768097662	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	aa76d6f945ca5afc
+30	881	7953004768258101	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6a66625c9db735c7
+1	921	7953004768735728	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	658a2cdc734a7564
+14	1037	7953004769883392	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b35edda27b749e23
+38	1056	7953004770098967	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a4951761a32c6407
+6	1086	7953004770372117	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5088cdfc7ccf3d05
+1086	1171	7953004771245308	C:/Users/phi-l/Fork/Skateboard-XR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/05h6v574/obj/arm64-v8a/libgame.so	c10518fc7d7bb21c
